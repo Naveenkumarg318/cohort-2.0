@@ -24,5 +24,5 @@ function calculateTime(n) {
 }
 
 console.log(calculateTime(100));
-console.log(calculateTime(10000));
+console.log(calculateTime(100000));
 console.log(calculateTime(1000000000));
